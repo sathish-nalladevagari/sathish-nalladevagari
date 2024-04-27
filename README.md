@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full Stack Python & Javascript developer from India</h3>
 
 - 🌱 I’m currently learning **Mern Stack, Machine Learning, Deep Learning**
-
+..
 - 👨‍💻 All of my projects are available at [https://sathish-portfolio-ruddy.vercel.app/](https://sathish-portfolio-ruddy.vercel.app/)
 
 - 💬 Ask me about **react, node, docker, machine learning,**
